@@ -51,8 +51,7 @@
     "test:server": "cross-env NODE_ENV=test mocha -R spec test/server/*.js",
     "start": "node bin",
     "prepush": "npm t",
-    "build": "babel src -d lib",
-	"postinstall": "npm install --production"
+    "build": "babel src -d lib"
   },
   "repository": {
     "type": "git",
