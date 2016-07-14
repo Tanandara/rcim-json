@@ -368,112 +368,112 @@
       "detail":"เงินสด",
       "ledger_id":"101",
       "drcr":"1",
-      "amount":"100000",
+      "amount":"100000"
     },{
       "journal_date" :"14/09/2016",
       "journal_id":"5907140001",
       "detail":"อุปกรณ์",
       "ledger_id":"X05",
       "drcr":"2",
-      "amount":"50000",
+      "amount":"50000"
     },{
       "journal_date" :"14/09/2016",
       "journal_id":"5907140001",
       "detail":"ค่าธรรมเนียมนักศึกษา",
       "ledger_id":"X03",
       "drcr":"2",
-      "amount":"50000",
+      "amount":"50000"
     },{
       "journal_date" :"14/09/2016",
       "journal_id":"5907140001",
       "detail":"ขายอุปกรณ์ และได้รับค่าเทอมจากนักศึกษา",
       "ledger_id":"",
       "drcr":"3",
-      "amount":"",
+      "amount":""
     },{
       "journal_date" :"14/09/2016",
       "journal_id":"5907140002",
       "detail":"ที่ดิน",
       "ledger_id":"X09",
       "drcr":"1",
-      "amount":"100000",
+      "amount":"100000"
     },{
       "journal_date" :"14/09/2016",
       "journal_id":"5907140002",
       "detail":"อาคาร",
       "ledger_id":"X07",
       "drcr":"1",
-      "amount":"100000",
+      "amount":"100000"
     },{
       "journal_date" :"14/09/2016",
       "journal_id":"5907140002",
       "detail":"อุปกรณ์",
       "ledger_id":"X05",
       "drcr":"1",
-      "amount":"100000",
+      "amount":"100000"
     },{
       "journal_date" :"14/09/2016",
       "journal_id":"5907140002",
       "detail":"เงินสด",
       "ledger_id":"101",
       "drcr":"2",
-      "amount":"300000",
+      "amount":"300000"
     },{
       "journal_date" :"14/09/2016",
       "journal_id":"5907140002",
       "detail":"ซื้อที่ดิน อาคาร อุปกรณ์ เพื่อใช้ในการสอน",
       "ledger_id":"",
       "drcr":"3",
-      "amount":"",
+      "amount":""
     },{
       "journal_date" :"15/09/2016",
       "journal_id":"5907150001",
       "detail":"เงินสด",
       "ledger_id":"101",
       "drcr":"1",
-      "amount":"100000",
+      "amount":"100000"
     },{
       "journal_date" :"15/09/2016",
       "journal_id":"5907150001",
       "detail":"เงินฝากธนาคาร",
       "ledger_id":"X02",
       "drcr":"1",
-      "amount":"100000",
+      "amount":"100000"
     },{
       "journal_date" :"15/09/2016",
       "journal_id":"5907150001",
       "detail":"อุปกรณ์",
       "ledger_id":"X05",
       "drcr":"1",
-      "amount":"100000",
+      "amount":"100000"
     },{
       "journal_date" :"15/09/2016",
       "journal_id":"5907150001",
       "detail":"อาคาร",
       "ledger_id":"X07",
       "drcr":"1",
-      "amount":"100000",
+      "amount":"100000"
     },{
       "journal_date" :"15/09/2016",
       "journal_id":"5907150001",
       "detail":"เจ้าหนี้การค้า",
       "ledger_id":"X09",
       "drcr":"2",
-      "amount":"100000",
+      "amount":"100000"
     },{
       "journal_date" :"15/09/2016",
       "journal_id":"5907150001",
       "detail":"ทุน",
       "ledger_id":"X04",
       "drcr":"2",
-      "amount":"300000",
+      "amount":"300000"
     },{
       "journal_date" :"15/09/2016",
       "journal_id":"5907150001",
       "detail":"นำเงินสดเงินฝากสินทรัพยและ์หนี้สินมาลงทุน",
       "ledger_id":"",
       "drcr":"3",
-      "amount":"",
+      "amount":""
     }
   ]
 
