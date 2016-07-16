@@ -156,7 +156,7 @@
       "date": "14/07/2016",
       "ledger_detail":"ซื้ออาคาร",
       "ledger_detail_id":"X01",
-      "jounal_ref_id":"590714001",
+      "journal_ref_id":"590714001",
       "drcr":"1",
       "amount": "1500"
     },
@@ -165,7 +165,7 @@
       "date": "14/07/2016",
       "ledger_detail":"ซื้อเก้าอี้",
       "ledger_detail_id":"X05",
-	  "jounal_ref_id":"590714001",
+	  "journal_ref_id":"590714001",
       "drcr":"1",
       "amount": "145"
     },
@@ -174,7 +174,7 @@
       "date": "14/07/2016",
       "ledger_detail":"ซื้อโต๊ะ",
       "ledger_detail_id":"X06",
-	  "jounal_ref_id":"590714001",
+	  "journal_ref_id":"590714001",
       "drcr":"1",
       "amount": "1200"
     },
@@ -183,7 +183,7 @@
       "date": "14/07/2016",
       "ledger_detail":"ขายปากกา",
       "ledger_detail_id":"X99",
-	  "jounal_ref_id":"590714002",
+	  "journal_ref_id":"590714002",
       "drcr":"2",
       "amount": "200"
     },
@@ -192,7 +192,7 @@
       "date": "15/07/2016",
       "ledger_detail":"ซื้อกางเกง",
       "ledger_detail_id":"X09",
-	  "jounal_ref_id":"590714003",
+	  "journal_ref_id":"590714003",
       "drcr":"1",
       "amount": "1900"
     },
@@ -201,7 +201,7 @@
       "date": "16/07/2016",
       "ledger_detail":"ซื้อทีวี",
       "ledger_detail_id":"X71",
-	  "jounal_ref_id":"590714004",
+	  "journal_ref_id":"590714004",
       "drcr":"1",
       "amount": "900"
     }
